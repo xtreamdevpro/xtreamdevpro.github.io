@@ -50,9 +50,7 @@ Xtream Dev Pro regularly reviews its compliance with this Privacy Policy. If Xtr
 
 We use 3rd party services in our apps. These services collect usage data in compliance with their Privacy Policies. The services are described below.
 
-
-## Advertising
-
+## Advertising
 
 3rd party ad serving systems allow user data to be utilized for advertising communication purposes displayed in the form of banners and other advertisements on Xtream Dev Pro apps, possibly based on user interests.
 
@@ -60,8 +58,7 @@ We use 3rd party services in our apps. These services collect usage data in comp
 
 We use Admob by Google as the main ad server. Please see Admob Privacy Policy – https://www.google.com/intl/en/policies/privacy/
 
-
-## Analytics
+## Analytics
 
 3rd party analytics services allow us to monitor and analyze app usage, better understand our audience and user behavior.
 
@@ -69,15 +66,15 @@ We use Admob by Google as the main ad server. Please see Admob Privacy Policy �
 
 We use Flurry Analytics to collect, monitor and analyze log data, including frequency of use, length of time spent in the app, in order to improve functionality and user-friendliness of our apps. Please see Flurry Privacy Policy – http://www.flurry.com/privacy-policy.html
 
-## Google Analytics
+## Google Analytics
 
 Google Analytics is an analysis service provided by Google Inc. Google utilizes the collected data to track and examine the use of Xtream Dev Pro Apps, to prepare reports on user activities and share them with other Google services. Google may use the data to contextualize and personalize the ads of its own advertising network. (http://www.google.com/intl/en/policies/privacy/)
 
-Children’s Online Privacy Protection Act Compliance
+## Children’s Online Privacy Protection Act Compliance
 
 We are in compliance with the requirements of COPPA, we do not collect any personal information from anyone under 13 years of age. Our products and services are all directed to people who are at least 13 years old or older.
 
-## Contact Us
+## Contact Us
 
 mail: xtreamdevpro@gmail.com
 
